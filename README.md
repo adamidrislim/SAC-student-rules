@@ -65,3 +65,10 @@ Spaces like these are subject to re-allocation every half-year or so, unless you
 As of the time of writing, an alternate set of spaces are available for application: a set of lockers, which are key-based, and are approximately the size of a cutting mat (and about 25cm deep).
 
 Once again, any Official School Club may apply for this space through their Cluster Rep, who will let them know what spaces are available.
+
+### Self-initiated storage space
+
+1. Any piece of furniture/equipment that is brought in by students themselves should be for "the public good". By "public good", it means The furniture/equipment should be made accessible and usable to all students.
+2. The furniture/equipment should be labelled with the contact details of the person who brought in the furniture/equipment. This is so that the owner have the choice of claiming the item if it is deemed "not for public good".
+3. The owner can enforce the need for permission before using the furniture/equipment so long as it provides a method for all students to access, except for students who misuse the furniture/equipment. Permission can be in the form of lock, password or verbal communication, and cannot be intentionally made too difficult to request. (This is because some of the equipment like 3D printers can be expensive and might breakdown if it is not used properly. Well, if you are being unreasonable, they can always set up a vote to determine that it is"not for public good").
+4. To confirm that a furniture/equipment is "not for public good", voting shall be conducted over 24 hours period on SUTD family facebook page or SAC telegram group. Anyone can initiate the voting, majority wins. If the furniture/equipment is voted to be removed, The owner shall be contacted and given the choice to claim his or her furniture/equipment within one week. If the owner is not contactable, anyone has the right to dispose the furniture/equipment.
