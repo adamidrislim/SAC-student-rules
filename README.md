@@ -60,8 +60,15 @@ Currently, the process for applying for room-based space involves the following:
 
 Spaces like these are subject to re-allocation every half-year or so, unless you can continue to prove that you have both the need, and the will to upkeep all the items and the space you place them in.
 
+Usually these rooms will be closed for security reasons, unless the cluster reps are in near vacinity of the rooms. Otherwise, please contact your cluster reps to get them open if you need access to the rooms.
+
 ### Other Storage Spaces
 
 As of the time of writing, an alternate set of spaces are available for application: a set of lockers, which are key-based, and are approximately the size of a cutting mat (and about 25cm deep).
 
 Once again, any Official School Club may apply for this space through their Cluster Rep, who will let them know what spaces are available.
+
+# Contact of your reps
+Arts & Culture: arts@rep.sutd.edu.sg
+Makers & Specialists: makers@rep.sutd.edu.sg
+Sports: core@sportsunited.sutd.edu.sg
