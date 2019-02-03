@@ -69,3 +69,9 @@ Usually these rooms will be closed for security reasons, unless the cluster reps
 As of the time of writing, an alternate set of spaces are available for application: a set of lockers, which are key-based, and are approximately the size of a cutting mat (and about 25cm deep).
 
 Once again, any Official School Club may apply for this space through their Cluster Rep, who will let them know what spaces are available.
+
+## Contacting Cluster Reps:
+
+You may reach them at their respective emails for each cluster.
+
+***Please use your Official Club Emails or get the project lead to email the cluster reps through SUTD internal email.***
