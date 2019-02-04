@@ -1,9 +1,10 @@
 # Introduction
 The *Student Activity Centre* (SAC) is a student-led space in the Fabrication Lab block. It is a space for student clubs and research groups to conduct their activities and more.
 
-
-
 This is a living document, and policy suggestions are welcome: Just make sure you raise an issue!
+
+Please use your Official Club Emails or get the project lead to email the cluster reps through SUTD internal email to gain access to the Spaceteam (SAC) telegram chat.
+
 
 ## Core Philosophy
 
@@ -60,15 +61,19 @@ Currently, the process for applying for room-based space involves the following:
 
 Spaces like these are subject to re-allocation every half-year or so, unless you can continue to prove that you have both the need, and the will to upkeep all the items and the space you place them in.
 
-Usually these rooms will be closed for security reasons, unless the cluster reps are in the vicinity. 
-
-*Please contact your cluster reps to get them open if you need access to the rooms.*
-
 ### Other Storage Spaces
 
 As of the time of writing, an alternate set of spaces are available for application: a set of lockers, which are key-based, and are approximately the size of a cutting mat (and about 25cm deep).
 
 Once again, any Official School Club may apply for this space through their Cluster Rep, who will let them know what spaces are available.
+
+### Self-initiated storage space
+
+1. Upon approval by the Spaceteam (SAC), students (or fifth rows) may bring furniture/equipment into the open spaces of SAC to be used by other users of the SAC (i.e. as a "Public Good").
+2. As long as all students are provided with a reasonable means of accessing the item (subject to judgement by the Spaceteam (SAC)), owners may retrict access of the items to prevent theft and abuse.
+3. The furniture/equipment should be labelled with the contact details of the person who brought in the furniture/equipment.
+4. To prevent abuse of this system, anyone may initiate a vote to be conducted over 24 hours in the Spaceteam (SAC) chat to remove the item. If vote is successful, the owner of the item will be contacted to remove the item within 1 week, or risk its disposal.
+5. Failure to label or seek approval to store the items will risk its immediate removal.
 
 ## Contacting Cluster Reps:
 
