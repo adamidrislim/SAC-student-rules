@@ -1,16 +1,36 @@
+
 # Introduction
+
 The *Student Activity Centre* (SAC) is a student-led space in the Fabrication Lab block. It is a space for student clubs and research groups to conduct their activities and more.
 
 This is a living document, and policy suggestions are welcome: Just make sure you raise an issue!
 
 For student club members, please use your Official Club Emails or get the project lead to email the cluster reps through SUTD internal email to gain access to the Spaceteam (SAC) telegram chat. For non-club students, you may approach members of Student Government's Student Initiatives for access instead.
 
+# Table of Contents
+
+- ***How to use this Guide***
+- ***Core Philosophy***
+- ***General Housekeeping***
+  - **Cleanliness**
+  - **Garbage**
+  - **Food and Drinks**
+- ***SAC Spaces and Storage***
+  - **Open Areas**
+  - **Rooms and Room Policy**
+  - **Other Storage Spaces**
+  - **Storage Space Initiatives**
+- **Contacting Cluster Reps**
+
+## How to use this Guide
+
+If you are looking for a specific guide as a user, consult either school-clubs-usage.md or individual-users.md. Otherwise, if you are looking for what the SAC stands for and what template is used to define user interactions with the SAC, read on!
 
 ## Core Philosophy
 
 The SAC is a place that is there to **support student activities and provide them an enclosed space to work**. It is primarily _not_ a storage space (excepting the rooms, which are used by student clubs).
 
-## General Housekeeping:
+## General Housekeeping
 
 ### Cleanliness
 
@@ -22,17 +42,17 @@ At the same time, make sure that the floor is clear of detritus and the like bef
 
 If the bin in the SAC is already full, *please clear it before you go*. Nobody likes to have a workspace filled with pests.
 
-### Food and Drinks:
+### Food and Drinks
 
 Food and Drinks are okay to have (for now) in the SAC; just *make sure you clean up after yourself* if you spill anything. Once again, **nobody** likes a space filled with pests.
 
-## SAC Spaces and Storage:
+## SAC Spaces and Storage
 
 ***Please note: The SAC open areas are NOT FOR STORAGE!***
 
 Any items stored there not following the policies below will be ***reported and then promptly disposed of.***
 
-### Open Areas:
+### Open Areas
 
 The open access areas accessible by the use of the SUTD student card is meant for activities only, and are open to all students.
 
@@ -75,7 +95,7 @@ Once again, any Official School Club may apply for this space through their Clus
 4. To prevent abuse of this system, anyone may initiate a vote to be conducted over 24 hours in the Spaceteam (SAC) chat to remove the item. If vote is successful, the owner of the item will be contacted to remove the item within 1 week, or risk its disposal.
 5. Failure to label or seek approval to store the items will risk its immediate removal.
 
-## Contacting Cluster Reps:
+## Contacting Cluster Reps
 
 You may reach them at their respective emails for each cluster.
 
