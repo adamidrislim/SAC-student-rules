@@ -3,6 +3,8 @@
 ## Table of Contents
 
 - **[A0] General Etiquette**
+  - [A1] Food and Drink Policy
+  - [A2] Keeping Things Clean
 - **[B0] Storing Items**
   - [B1] Applying for Room Space
   - [B2] Room Policy
@@ -18,3 +20,19 @@
 
 ## [A0] General Etiquette
 
+Generally, the rules for General Ettiquette don't vary much across most places. This boils down to: **Don't be a dick to the next guy.**
+
+### [A1] Food and Drink Policy
+
+Generally, the SAC is open to having Student Clubs have their own food and drink inside of the SAC's Open activity area.
+However, keep in mind the following policies regarding the consumption of food and drink inside the SAC:
+
+- Sweet drinks, if spilled, are to be cleaned up **immediately**. There are rags in the SAC that are available for this purpose. Clean up messes promptly and wash the rags after.
+
+## [B0] Storing Items
+
+## [C0] Booking the SAC for Activities
+
+## [D0] General How-To
+
+## [E0] FAQ

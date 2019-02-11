@@ -38,7 +38,7 @@ The SAC furniture is to be kept *clean and tidy*. Don't be that person who slobb
 
 At the same time, make sure that the floor is clear of detritus and the like before you leave! Nobody likes working on dirty floors.
 
-### Garbage:
+### Garbage
 
 If the bin in the SAC is already full, *please clear it before you go*. Nobody likes to have a workspace filled with pests.
 
