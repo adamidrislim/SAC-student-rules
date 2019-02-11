@@ -28,6 +28,12 @@ Generally, the SAC is open to having Student Clubs have their own food and drink
 However, keep in mind the following policies regarding the consumption of food and drink inside the SAC:
 
 - Sweet drinks, if spilled, are to be cleaned up **immediately**. There are rags in the SAC that are available for this purpose. Clean up messes promptly and wash the rags after.
+- Packet food may be consumed in the SAC, but must be properly bagged and disposed of once finished: That also means keeping any dustbins used to store such trash closed.
+- Finger food is fine too, but remember to sweep up the crumbs! If the crumbs are hard to reach, there is also a vacuum cleaner generously donated by Energy Club.
+
+### [A2] Keeping Things Clean
+
+For the sake of keeping SAC pleasant for all users, please take note of the following 
 
 ## [B0] Storing Items
 
