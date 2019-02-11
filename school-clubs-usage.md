@@ -20,7 +20,7 @@
 
 ## [A0] General Etiquette
 
-Generally, the rules for General Ettiquette don't vary much across most places. This boils down to: **Don't be a dick to the next guy.**
+Generally, the rules for General Ettiquette don't vary much across most places. This boils down to: **Don't ruin the place for the next guy.**
 
 ### [A1] Food and Drink Policy
 
