@@ -4,7 +4,7 @@ The _Student Activity Centre_ (SAC) is a student-led space in the Fabrication La
 
 This is a living document, and policy suggestions are welcome: Just make sure you raise an issue!
 
-For student club members, please use your Official Club Emails or get the project lead to email the cluster reps through SUTD internal email to gain access to the Spaceteam (SAC) telegram chat. For non-club students, you may approach members of Student Government's Student Initiatives for access instead.
+For student club members, please use your Official Club Emails or get the project lead to email the cluster reps through SUTD internal email to gain access to the Student Activities Centre telegram chat. For non-club students, you may approach the Arts and Social cluster representatives for the link.
 
 # Table of Contents
 
