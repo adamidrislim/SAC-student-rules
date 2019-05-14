@@ -33,12 +33,20 @@ However, keep in mind the following policies regarding the consumption of food a
 
 ### [A2] Keeping Things Clean
 
-For the sake of keeping SAC pleasant for all users, please take note of the following 
+Every term, if you have used the Student Activities Centre, you are expected as a member of the community to help with the termly clean-up activity that will take place over the first week after the term's final exams are over.
+
+Not doing so means that if space is in need in the SAC, your student club is more likely to be asked to vacate your current premises, especially if other clubs are committed to improving the space.
 
 ## [B0] Storing Items
 
+Generally, the rules fundamentally remain the same across either people or clubs - if you want to store items, you need to provide:
+
+1. An inventorized inventory list - it need not contain everything you are moving in, but everything of value should be within.
+2. A definite start and end dates for your storage - right now, after each term space is up for review. You will also need to provide a "throw-by" date, after which removal of these items will be at the representatives' sole decision.
+3. Contact details for the person-in-charge for your items.
+
 ## [C0] Booking the SAC for Activities
 
-## [D0] General How-To
+Right now, the SAC is a space that is free for all to use - but Student Clubs may place bookings for the space, which lets them take priority for use of the space for a certain number of hours a week, subject to representatives' approval. Contact your represenative to book timeslots for the room!
 
-## [E0] FAQ
+## [D0] General How-To
