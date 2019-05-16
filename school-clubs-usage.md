@@ -37,6 +37,13 @@ Every term, if you have used the Student Activities Centre, you are expected as 
 
 Not doing so means that if space is in need in the SAC, your student club is more likely to be asked to vacate your current premises, especially if other clubs are committed to improving the space.
 
+For the sake of keeping SAC pleasant for all users, please take note of the following reminders regarding SAC use:
+
+- The Vacuum Cleaner is *not* for liquids. Please wipe those up with the rags or paper napkins. If you need a reminder on what those are, [you may cick here.](https://redmart.com/search/paper%20towels "Just a reminder, you know")
+- Please empty the bin if it is full when you are using it, or at the end of the day. We don't have a pest problem, and we can all work to keep it that way.
+- Please do use the Vacuum cleaner and other available things for cleaning up your messes.
+  - If the Vacuum cleaner is not working well, please help to clear the filter bag, or wash it, if you're a kind soul.
+
 ## [B0] Storing Items
 
 Generally, the rules fundamentally remain the same across either people or clubs - if you want to store items, you need to provide:
