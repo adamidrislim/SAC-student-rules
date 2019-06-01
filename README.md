@@ -1,4 +1,4 @@
-# Introduction
+# The SAC
 
 The _Student Activity Centre_ (SAC) is a student-led space in the Fabrication Lab block. It is a space for student clubs and research groups to conduct their activities and more.
 
@@ -6,10 +6,10 @@ This is a living document, and policy suggestions are welcome: Just make sure yo
 
 For student club members, please use your Official Club Emails or get the project lead to email the cluster reps through SUTD internal email to gain access to the Student Activities Centre telegram chat. For non-club students, you may approach the Arts and Social cluster representatives for the link.
 
-# Table of Contents
+## Table of Contents
 
-- [Introduction](#introduction)
-- [Table of Contents](#table-of-contents)
+- [The SAC](#the-sac)
+  - [Table of Contents](#table-of-contents)
   - [How to use this Guide](#how-to-use-this-guide)
   - [Core Philosophy](#core-philosophy)
   - [General Housekeeping](#general-housekeeping)
