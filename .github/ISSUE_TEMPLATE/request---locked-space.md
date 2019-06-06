@@ -3,7 +3,7 @@ name: Request - Locked Space
 about: Requesting for a space that is secured by more than just the card scan
 title: "[REQ:LS]"
 labels: locked storage, request
-assignees: ''
+assignees: Kazykiddo, lyqht, piroton, SolsticeDante, weiying98
 
 ---
 

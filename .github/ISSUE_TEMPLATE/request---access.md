@@ -3,7 +3,7 @@ name: Request - Access
 about: Requesting for locked-access areas to be opened
 title: "[ROOM]"
 labels: help wanted, request
-assignees: lyqht, piroton
+assignees: Kazykiddo, lyqht, piroton
 
 ---
 
