@@ -14,7 +14,7 @@ e.g. Gunpla Club, Energy Club, etc
 e.g. Regular club activities
 
 **Who is the Point of Contact?**
-e.g. Gui An (guian_lee <at> mymail <dot> sutd.edu.sg)
+e.g. Gui An (guian_lee (at) mymail (dot) sutd.edu.sg)
 
 **What date and what time are you requesting for it to be opened?**
 e.g. Thursday, 6th June 2019, 7pm to 11pm
