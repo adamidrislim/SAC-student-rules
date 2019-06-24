@@ -2,21 +2,14 @@
 
 ## Table of Contents
 
-- **[A0] General Etiquette**
-  - [A1] Food and Drink Policy
-  - [A2] Keeping Things Clean
-- **[B0] Storing Items**
-  - [B1] Applying for Room Space
-  - [B2] Room Policy
-  - [B3] Two Strike System
-- **[C0] Booking the SAC for Activities**
-  - [C1] The SAC Calendar
-  - [C2] Booking Policy
-- **[D0] General How-To**
-  - [D1] How to handle Missing Items
-  - [D2] Reporting faulty items
-  - [D3] Booking for Recurring Events
-- **[E0] FAQ**
+- [Using the SAC as a School Club](#using-the-sac-as-a-school-club)
+  - [Table of Contents](#table-of-contents)
+  - [[A0] General Etiquette](#a0-general-etiquette)
+    - [[A1] Food and Drink Policy](#a1-food-and-drink-policy)
+    - [[A2] Keeping Things Clean](#a2-keeping-things-clean)
+  - [[B0] Storing Items](#b0-storing-items)
+  - [[C0] Booking the SAC for Activities](#c0-booking-the-sac-for-activities)
+  - [[D0] General How-To](#d0-general-how-to)
 
 ## [A0] General Etiquette
 
@@ -39,7 +32,7 @@ Not doing so means that if space is in need in the SAC, your student club is mor
 
 For the sake of keeping SAC pleasant for all users, please take note of the following reminders regarding SAC use:
 
-- The Vacuum Cleaner is *not* for liquids. Please wipe those up with the rags or paper napkins. If you need a reminder on what those are, [you may cick here.](https://redmart.com/search/paper%20towels "Just a reminder, you know")
+- The Vacuum Cleaner is _not_ for liquids. Please wipe those up with the rags or paper napkins. If you need a reminder on what those are, [you may cick here.](https://redmart.com/search/paper%20towels "Just a reminder, you know")
 - Please empty the bin if it is full when you are using it, or at the end of the day. We don't have a pest problem, and we can all work to keep it that way.
 - Please do use the Vacuum cleaner and other available things for cleaning up your messes.
   - If the Vacuum cleaner is not working well, please help to clear the filter bag, or wash it, if you're a kind soul.
