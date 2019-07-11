@@ -4,18 +4,18 @@ The SAC is a place that is there to **support student activities and provide the
 
 ## Table Of Contents
 
-- [Core Philosophy](#core-philosophy)
-  - [Table Of Contents](#table-of-contents)
-  - [General Housekeeping](#general-housekeeping)
-    - [Cleanliness](#cleanliness)
-    - [Garbage](#garbage)
-    - [Food and Drinks](#food-and-drinks)
-  - [SAC Spaces and Storage](#sac-spaces-and-storage)
-    - [Open Areas](#open-areas)
-    - [Rooms & Room Policy](#rooms--room-policy)
-    - [Other Storage Spaces](#other-storage-spaces)
-    - [Storage Space Initiatives](#storage-space-initiatives)
-  - [Contacting Reps](#contacting-reps)
+- [Core Philosophy](#Core-Philosophy)
+  - [Table Of Contents](#Table-Of-Contents)
+  - [General Housekeeping](#General-Housekeeping)
+    - [Cleanliness](#Cleanliness)
+    - [Garbage](#Garbage)
+    - [Food and Drinks](#Food-and-Drinks)
+  - [SAC Spaces and Storage](#SAC-Spaces-and-Storage)
+    - [Open Areas](#Open-Areas)
+    - [Rooms & Room Policy](#Rooms--Room-Policy)
+    - [Other Storage Spaces](#Other-Storage-Spaces)
+    - [Storage Space Initiatives](#Storage-Space-Initiatives)
+  - [Contacting Reps](#Contacting-Reps)
 
 ## General Housekeeping
 

@@ -8,11 +8,11 @@ For student club members, please use your Official Club Emails or get the projec
 
 ## Table of Contents
 
-- [The SAC](#the-sac)
-  - [Table of Contents](#table-of-contents)
-  - [How to Use This Repository](#how-to-use-this-repository)
-  - [Contributing to this Project](#contributing-to-this-project)
-    - [Maintainers](#maintainers)
+- [The SAC](#The-SAC)
+  - [Table of Contents](#Table-of-Contents)
+  - [How to Use This Repository](#How-to-Use-This-Repository)
+  - [Contributing to this Project](#Contributing-to-this-Project)
+    - [Maintainers](#Maintainers)
 
 ## How to Use This Repository
 
